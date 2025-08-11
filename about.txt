@@ -1,0 +1,3 @@
+Name: Pravallika
+Course: Bachelor Of Computer Applications(BCA)
+I'm currently learning GitHub
